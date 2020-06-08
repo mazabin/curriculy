@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_summary">
+
+    <fragment
+        android:id="@+id/navigation_experience"
+        android:name="it.zabinska.curriculy.ui.experience.ExperienceFragment"
+        android:label="@string/title_experience"
+        tools:layout="@layout/fragment_experience" />
+
+    <fragment
+        android:id="@+id/navigation_summary"
+        android:name="it.zabinska.curriculy.ui.summary.SummaryFragment"
+        android:label="@string/title_summary"
+        tools:layout="@layout/fragment_summary" />
+
+    <fragment
+        android:id="@+id/navigation_skills"
+        android:name="it.zabinska.curriculy.ui.skills.SkillsFragment"
+        android:label="@string/title_skills"
+        tools:layout="@layout/fragment_skills" />
+</navigation>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="skills_names">
+        <item>Android</item>
+        <item>Clean code</item>
+        <item>Design</item>
+        <item>Android Jetpack</item>
+        <item>Kotlin</item>
+        <item>Firebase</item>
+        <item>Cloud</item>
+        <item>Libraries</item>
+        <item>Github</item>
+    </string-array>
+
+    <string-array name="skills_descriptions">
+        <item>I can develop Android apps, that are robust and reliant, and I am still learning what Android framework has to offer, to make them even faster and more efficient</item>
+        <item>I am aware of the stages of software production process from the idea to realization. I try my best to follow clean code rules, upkeeping project\'s code convention and software design principles </item>
+        <item>I know what are Material Design principles and how to apply them to create beautiful, accessible apps. I follow design principles mindful about ease of access and user experience</item>
+        <item>I am using modern development tools like DataBinding, provided by Android Jetpack</item>
+        <item>I am integrating Firebase into my apps</item>
+        <item>I am learning to apply functional and object-oriented Kotlin language in my day-to-day development</item>
+        <item>I am not afraid on improving my apps with cloud-based solutions like Google Cloud Platform. Learning about microservices architecture, Kubernetes and other cloud-oriented technologies</item>
+        <item>I am learning how to use popular libraries like Retrofit2, OkHttp, Picasso, Dagger2, RxJava2 and more! </item>
+        <item>I know how to use Source Control Version tools like Github and Microsoft TFS</item>
+    </string-array>
+
+    <array name="skills_images">
+        <item>@drawable/ic_android_logo</item>
+        <item>@drawable/ic_code</item>
+        <item>@drawable/ic_material_logo</item>
+        <item>@drawable/ic_jetpack_logo</item>
+        <item>@drawable/ic_firebase_logo</item>
+        <item>@drawable/ic_kotlin_logo</item>
+        <item>@drawable/ic_cloud</item>
+        <item>@drawable/ic_widgets</item>
+        <item>@drawable/ic_github_logo</item>
+    </array>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_experience"
+        android:icon="@drawable/ic_history"
+        android:title="@string/title_experience" />
+
+    <item
+        android:id="@+id/navigation_summary"
+        android:icon="@drawable/ic_person"
+        android:title="@string/title_summary" />
+
+    <item
+        android:id="@+id/navigation_skills"
+        android:icon="@drawable/ic_skills"
+        android:title="@string/title_skills" />
+
+</menu>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Curriculy</string>
+    <string name="title_experience">Experience</string>
+    <string name="title_summary">Summary</string>
+    <string name="title_skills">Skills</string>
+    <string name="company_years">%1$s - %2$s</string>
+    <string name="responsibilities_title">Responsibilities</string>
+    <string name="contactMe">Contact me</string>
+    <string name="email_subject">I would like to know more!</string>
+    <string name="email_content">I have used your app and I am interested in your work. Please, contact me here:\n</string>
+    <string name="send_email_message">Send email…</string>
+</resources>
