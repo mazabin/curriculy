@@ -9,7 +9,7 @@ import com.google.firebase.ktx.Firebase
 
 class FirebaseHelper {
     val database = Firebase.database
-    val myRef = database.getReferenceFromUrl("https://curricluly.firebaseio.com/experiences")
+    val myRef = database.getReferenceFromUrl("https://example.firebaseio.com/experiences")
     companion object {
         var exp = ArrayList<Experience>()
         private const val TAG = "KotlinActivity"
